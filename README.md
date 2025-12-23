@@ -7,7 +7,7 @@ The analysis combines regression modelling, model comparison, and a prescriptive
 ## Analytical Approach
 ## Key Insights
 ## Prescriptive Decision Framework
-<img width="694" height="386" alt="image" src="https://github.com/user-attachments/assets/e09e61d5-b413-4987-973a-b0acc8c4782b" /># hospitality-analytics-predictive-prescriptive
+<img width="694" height="386" alt="image" src="https://github.com/user-attachments/assets/e09e61d5-b413-4987-973a-b0acc8c4782b" />
 
 ## Business Implications
 ## Tools & Techniques
