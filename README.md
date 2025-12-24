@@ -40,9 +40,11 @@ Visual diagnostics to assess relationships and data quality
 
 3. Predictive Modelling
 
-Incremental linear regression models (M1 → M5)
+Incremental linear regression models (M1 → M5) increased adjusted R² from ~0.26 to ~0.32
 
 Model comparison using R², adjusted R², and ANOVA
+
+ANOVA confirmed statistically significant improvement between models
 
 Residual diagnostics to validate modelling assumptions
 
@@ -52,17 +54,24 @@ Translation of predictive insights into an optimisation framework
 
 Definition of decision variables, constraints, and objective function
 ## Key Insights
-- Front desk service quality was the strongest single predictor of overall guest satisfaction.
+- Front desk service was the strongest predictor, with a coefficient of ~0.51 in the baseline model.
 
-- Adding perks and loyalty benefits materially improved explanatory power.
+- Adding perks and loyalty benefits increased explained variance by ~5 percentage points
 
 - Cleanliness, pricing perceptions, and recognition further increased predictive accuracy.
 
-- Expanded models incorporating customer type and visit purpose improved fit, but with diminishing returns.
+- Expanded models explained ~32% of overall satisfaction, indicating meaningful but incomplete drivers.
+
+- Customer type and visit purpose improved fit with diminishing returns, highlighting prioritisation trade-offs
 
 - Predictive models explained a meaningful portion of satisfaction variation while highlighting where managerial intervention has the highest leverage.
 ## Prescriptive Decision Framework
 Predictive insights were translated into a decision-support framework to guide managerial action.
+
+Prescriptive framework uses hypothetical improvement coefficients to demonstrate optimisation logic.
+
+Illustrates trade-offs under budget constraints rather than exact financial forecasts.
+
 
 **Objective**
 
