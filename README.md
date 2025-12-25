@@ -70,34 +70,32 @@ Definition of decision variables, constraints, and objective function
 ## Prescriptive Decision Framework
 Predictive insights were translated into a decision-support framework to guide managerial action.
 
-Prescriptive framework uses hypothetical improvement coefficients to demonstrate optimisation logic.
-
-Illustrates trade-offs under budget constraints rather than exact financial forecasts.
+Prescriptive framework uses hypothetical improvement coefficients to demonstrate optimisation logic, and the framework illustrates trade-offs under budget constraints rather than exact financial forecasts.
 
 
 **Objective**
 
-Maximise overall guest satisfaction under budget constraints.
+- Maximise overall guest satisfaction under budget constraints.
 
 **Decision levers**
 
-Investment in staff training
+- Investment in staff training
 
-Facility and cleanliness improvements
+- Facility and cleanliness improvements
 
-Targeted pricing and promotional adjustments
+- Targeted pricing and promotional adjustments
 
 **Constraints**
 
-Limited improvement budget
+- Limited improvement budget
 
-Operational feasibility
+- Operational feasibility
 
-Resource allocation trade-offs
+- Resource allocation trade-offs
 
 **Outcome**
 
-Demonstrates how analytics moves beyond insight generation into prioritised, optimised business decisions.
+The following table shows how the analysis moved beyond insight generation into prioritised, optimised business decisions.
 <img width="694" height="386" alt="image" src="https://github.com/user-attachments/assets/e09e61d5-b413-4987-973a-b0acc8c4782b" />
 
 ## Business Implications
@@ -111,12 +109,12 @@ Demonstrates how analytics moves beyond insight generation into prioritised, opt
 
 - The approach is directly applicable to customer experience strategy, revenue management, and operational planning.
 ## Tools & Techniques
-R: data manipulation, regression modelling, diagnostics
+**R:** data manipulation, regression modelling, diagnostics
 
-Statistical methods: correlation analysis, linear regression, ANOVA
+**Statistical methods:** correlation analysis, linear regression, ANOVA
 
-Data preprocessing: scaling, log transformation, feature engineering
+**Data preprocessing:** scaling, log transformation, feature engineering
 
-Visual analytics: correlation plots, regression diagnostics
+**Visual analytics:** correlation plots, regression diagnostics
 
-Decision analytics: prescriptive optimisation framework
+**Decision analytics:** prescriptive optimisation framework
