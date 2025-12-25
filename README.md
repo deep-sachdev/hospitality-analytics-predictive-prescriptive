@@ -65,6 +65,8 @@ Definition of decision variables, constraints, and objective function
 - Customer type and visit purpose improved fit with diminishing returns, highlighting prioritisation trade-offs
 
 - Predictive models explained a meaningful portion of satisfaction variation while highlighting where managerial intervention has the highest leverage.
+
+- Supporting visuals include regression diagnostics, coefficient plots, and model comparison tables (see /visuals)
 ## Prescriptive Decision Framework
 Predictive insights were translated into a decision-support framework to guide managerial action.
 
