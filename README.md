@@ -60,7 +60,7 @@ Definition of decision variables, constraints, and objective function
 
 - Cleanliness, pricing perceptions, and recognition further increased predictive accuracy.
 
-- Expanded models explained ~32% of overall satisfaction, indicating meaningful but incomplete drivers.
+- Expanded models explained ~32% of satisfaction, which shows clear levers but also limits of perception-based data
 
 - Customer type and visit purpose improved fit with diminishing returns, highlighting prioritisation trade-offs
 
