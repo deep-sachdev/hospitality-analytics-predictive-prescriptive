@@ -98,6 +98,8 @@ Prescriptive framework uses hypothetical improvement coefficients to demonstrate
 The following table shows how the analysis moved beyond insight generation into prioritised, optimised business decisions.
 <img width="694" height="386" alt="image" src="https://github.com/user-attachments/assets/e09e61d5-b413-4987-973a-b0acc8c4782b" />
 
+_Improvement coefficients are hypothetical and used to demonstrate optimisation logic rather than precise financial forecasts_
+
 ## Business Implications
 - Customer experience improvements should prioritise front-line staff and core service quality before secondary features.
 
