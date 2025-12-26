@@ -68,7 +68,7 @@ Definition of decision variables, constraints, and objective function
 
 - Supporting visuals include regression diagnostics, coefficient plots, and model comparison tables (see /visuals)
 
-![Coefficient plot – Model 2](visuals/Coefficient plot m2.png)
+![Coefficient plot – Model 2](visuals/Coefficient_plot_m2.png)
 
 ## Prescriptive Decision Framework
 Predictive insights were translated into a decision-support framework to guide managerial action.
