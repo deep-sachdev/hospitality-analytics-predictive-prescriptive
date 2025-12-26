@@ -22,7 +22,7 @@ Analytical Approach
 
 A structured, end-to-end analytics workflow was applied:
 
-1. Data Preparation
+**1. Data Preparation**
 
 Data cleaning and preprocessing
 
@@ -32,13 +32,13 @@ Standardisation of mixed-scale variables
 
 Factor encoding for categorical features
 
-2. Exploratory Data Analysis
+**2. Exploratory Data Analysis**
 
 Correlation analysis to identify potential satisfaction drivers
 
 Visual diagnostics to assess relationships and data quality
 
-3. Predictive Modelling
+**3. Predictive Modelling**
 
 Incremental linear regression models (M1 → M5) increased adjusted R² from ~0.26 to ~0.32
 
@@ -48,7 +48,7 @@ ANOVA confirmed statistically significant improvement between models
 
 Residual diagnostics to validate modelling assumptions
 
-4. Prescriptive Modelling
+**4. Prescriptive Modelling**
 
 Translation of predictive insights into an optimisation framework
 
